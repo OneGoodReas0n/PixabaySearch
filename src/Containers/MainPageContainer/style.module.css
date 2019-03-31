@@ -1,0 +1,18 @@
+.originText{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.searchIcon{
+    width: 40px;
+    height: 28px;
+}
+
+.justCenter{
+    justify-content: center;
+}
+
+.searchBar{
+    margin-bottom: 30px;
+    justify-content: center;
+}
